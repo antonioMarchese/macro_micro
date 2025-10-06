@@ -13,10 +13,6 @@ export default function Home() {
             <h2 className="text-4xl font-extrabold text-slate-900 dark:text-white sm:text-5xl mb-4">
               Ambientes Organizacionais
             </h2>
-            <p className="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto">
-              Antônio, Augusto, Jonas, Marcos, Maurynk José Ferreira, Nicholas e
-              Pedro
-            </p>
           </div>
 
           {/* Company Analysis Section */}
@@ -94,6 +90,18 @@ export default function Home() {
       <footer className="py-8 px-4 sm:px-6 lg:px-8 border-t border-slate-200 dark:border-slate-700">
         <div className="max-w-7xl mx-auto text-center text-slate-600 dark:text-slate-400">
           <p>Análise Ambiental Organizacional - Modelo de Três Camadas</p>
+          <div>
+            <p>Alunos:</p>
+            <ul>
+              <li>Antonio Marchese</li>
+              <li>Augusto Silva</li>
+              <li>Jonas Amaral</li>
+              <li>Nicholas Zoffoli</li>
+              <li>Marcos Luis</li>
+              <li>Maurynk José Ferreira</li>
+              <li>Pedro Lima</li>
+            </ul>
+          </div>
         </div>
       </footer>
     </div>
